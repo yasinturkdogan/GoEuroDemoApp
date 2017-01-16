@@ -8,6 +8,7 @@ Features :
 
 * Caching
 * Sorting
+* Using Autolayout
 * Using CocoaPods
 * Using Objective-C Bridging : CommonCrypto/CommonCrypto.h
 
