@@ -22,6 +22,7 @@
 		1D656B5F1E2C308200A875A3 /* TypeAliases.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D656B5E1E2C308200A875A3 /* TypeAliases.swift */; };
 		1D656B611E2C31BB00A875A3 /* StringExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D656B601E2C31BB00A875A3 /* StringExtensions.swift */; };
 		1DD4E2C91E2D5CD100281410 /* UIColorExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD4E2C81E2D5CD100281410 /* UIColorExtensions.swift */; };
+		1DD4E2CE1E2D690200281410 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 1DD4E2CD1E2D690200281410 /* README.md */; };
 		B0D62DD43B76C922680202FA /* Pods_GoEuroDemoApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F85A51CE0214CF1D522580C1 /* Pods_GoEuroDemoApp.framework */; };
 /* End PBXBuildFile section */
 
@@ -44,6 +45,7 @@
 		1D656B601E2C31BB00A875A3 /* StringExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = StringExtensions.swift; path = helpers/StringExtensions.swift; sourceTree = "<group>"; };
 		1DD4E2C81E2D5CD100281410 /* UIColorExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UIColorExtensions.swift; path = helpers/UIColorExtensions.swift; sourceTree = "<group>"; };
 		1DD4E2CB1E2D642100281410 /* LibraryBridging.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LibraryBridging.h; sourceTree = "<group>"; };
+		1DD4E2CD1E2D690200281410 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		7AD3B8A4D394F2ACE3B9C27B /* Pods-GoEuroDemoApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoEuroDemoApp.release.xcconfig"; path = "Pods/Target Support Files/Pods-GoEuroDemoApp/Pods-GoEuroDemoApp.release.xcconfig"; sourceTree = "<group>"; };
 		F26B872B9238A6F6FA2338A0 /* Pods-GoEuroDemoApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoEuroDemoApp.debug.xcconfig"; path = "Pods/Target Support Files/Pods-GoEuroDemoApp/Pods-GoEuroDemoApp.debug.xcconfig"; sourceTree = "<group>"; };
 		F85A51CE0214CF1D522580C1 /* Pods_GoEuroDemoApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GoEuroDemoApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -64,6 +66,7 @@
 		1D656B281E2C18F500A875A3 = {
 			isa = PBXGroup;
 			children = (
+				1DD4E2CD1E2D690200281410 /* README.md */,
 				1D656B331E2C18F500A875A3 /* GoEuroDemoApp */,
 				1D656B321E2C18F500A875A3 /* Products */,
 				8330F509E235C1389826A0E2 /* Pods */,
@@ -271,6 +274,7 @@
 				1D656B5D1E2C301600A875A3 /* Run.swift in Sources */,
 				1D656B571E2C26DD00A875A3 /* TravelMode.swift in Sources */,
 				1DD4E2C91E2D5CD100281410 /* UIColorExtensions.swift in Sources */,
+				1DD4E2CE1E2D690200281410 /* README.md in Sources */,
 				1D656B531E2C1FCC00A875A3 /* JSONLoader.swift in Sources */,
 				1D656B551E2C235000A875A3 /* TravelOptionManager.swift in Sources */,
 				1D656B591E2C278100A875A3 /* TravelOption.swift in Sources */,
