@@ -1,0 +1,6 @@
+framework module YTKeychainManager {
+  umbrella header "YTKeychainManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
